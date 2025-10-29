@@ -74,7 +74,7 @@ Performance metrics used to assess model accuracy:
 * Root Mean Squared Error (RMSE): Penalizes large errors more than MAE.
 * Mean Absolute Percentage Error (MAPE): Evaluates the percentage error relative to actual values.
 
-## Visualization
+### 5. Visualization
 
 * Sales trend visualisation with line and bar charts.
 * Interactive dashboards showcasing sales performance.
